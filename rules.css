@@ -1,0 +1,17 @@
+#r1{
+    text-align: center;
+    color: white;
+    font-size: 180px;
+    padding-top: 0px;
+
+}
+.bg{
+    background-color:blueviolet ;
+}
+.r2{
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+    margin-top:-5px;
+    padding-top: 0px;
+}
